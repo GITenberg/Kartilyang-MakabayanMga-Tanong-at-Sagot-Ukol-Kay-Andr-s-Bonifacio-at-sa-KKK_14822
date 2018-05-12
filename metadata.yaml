@@ -1,0 +1,28 @@
+_repo: Kartilyang-MakabayanMga-Tanong-at-Sagot-Ukol-Kay-Andr-s-Bonifacio-at-sa-KKK_14822
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cruz, Hermenegildo
+    birthdate: 1880
+    gutenberg_agent_id: '5703'
+    url: http://www.gutenberg.org/2009/agents/5703
+description: ''
+gutenberg_issued: '2005-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14822'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Philippines -- History -- Revolution, 1896-1898'
+- !lcsh 'Kaatastaasan, Kagalanggalang Katipunan ng mga Anak ng Bayan (Organization)'
+title: 'Kartilyang Makabayan
+
+  Mga Tanong at Sagot Ukol Kay Andrés Bonifacio at sa KKK'
+url: http://www.gutenberg.org/ebooks/14822
